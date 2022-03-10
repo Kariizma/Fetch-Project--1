@@ -15,7 +15,7 @@
 ### Notes/Problems
 - Tried using a RecyclerView for the Project.
     - I swapped to a scrollable text view instead
-    - im going to upload the RecyclerView code into another respository here: ()
+    - im going to upload the RecyclerView code into another respository here: (https://github.com/Kariizma/Fetch-Project--2--RecyclerView-)
 - Put some of the Retrofit Logic in the Main activity, when it should be a seperate file
 - Had some trouble modifying/removing nulls and blank strings from the list
     - I removed the nulls using an iterator
