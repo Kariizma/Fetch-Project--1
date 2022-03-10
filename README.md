@@ -9,7 +9,7 @@
 
 ### App Walkthough GIF
 
-<img src="https://imgur.com/yUG4U1Q.gif" width=250><br>
+<img src="https://imgur.com/gallery/pc176ob" width=250><br>
 
 
 ## Open-source libraries used
