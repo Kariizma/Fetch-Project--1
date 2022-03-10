@@ -19,21 +19,4 @@ public class Hiring
     public String getName() {
         return name;
     }
-
-    public int compareTo(Hiring h2)
-    {
-        if(this.getListId() > h2.getListId())
-        {
-            return 1;
-        }
-        else if(this.getListId() < h2.getListId())
-        {
-            return -1;
-        }
-        else
-        {
-            return 0;
-        }
-    }
-
 }
